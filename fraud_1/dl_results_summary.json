@@ -1,0 +1,24 @@
+{
+    "model_info": {
+        "architecture": "3-layer Dense Neural Network",
+        "input_dim": 392,
+        "parameters": 28225
+    },
+    "performance": {
+        "loss": 0.43444401025772095,
+        "accuracy": 0.8167499899864197,
+        "auc": 0.8259836435317993,
+        "precision": 0.12388250231742859,
+        "recall": 0.6736111044883728
+    },
+    "data_info": {
+        "train_samples": 16000,
+        "test_samples": 506691,
+        "features": 392
+    },
+    "submission": {
+        "file": "fraud_detection_dl_submission.csv",
+        "samples": 506691
+    },
+    "timestamp": "2025-12-05 02:17:55"
+}
