@@ -6,10 +6,10 @@
 *NIM: 1103220169*   
 *Kelas: TK-46-02*   
 
-**Project Overview**
+**Project Overview**  
 This project implements a complete end-to-end machine learning pipeline for fish species classification using Convolutional Neural Networks (CNNs). The project was developed as part of a machine learning class assignment to demonstrate hands-on experience with image classification tasks.
 
-**Objective**
+**Objective**  
 Build a comprehensive image classification system that can accurately classify different fish species from images, covering the entire ML pipeline from data acquisition to model deployment.
 
 **Dataset**
